@@ -1,6 +1,9 @@
 Name: Anshul Sharma
+
 UID: 24BDA70368
+
 Group: 24BDS-3(B)
+
 Title: Experiment 2 – Live Word Counter, Dynamic Product Filter & SVG Drawing Tool
 
 Defined Approach :-
